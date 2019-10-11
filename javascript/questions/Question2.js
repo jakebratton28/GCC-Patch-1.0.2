@@ -25,5 +25,5 @@ function answer02(risk, bonus, trader) {
     }
     return total;
 }
-
+git push
 module.exports = answer02
