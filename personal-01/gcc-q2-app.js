@@ -1,4 +1,3 @@
-
 function answer02(risk, bonus, trader) 
 {
     var total = 0;
@@ -25,5 +24,3 @@ function answer02(risk, bonus, trader)
     }
     return total;
 }
-
-module.exports = answer02([2, 10, 9, 10, 10], [9, 1, 1, 6, 1], [9, 9, 8, 10, 10]);
