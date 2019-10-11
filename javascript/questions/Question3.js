@@ -54,5 +54,4 @@ function answer03(scores, alice) {
     return mode;
 }
 
-module.exports = answer03
 git push
